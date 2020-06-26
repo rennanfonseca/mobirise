@@ -710,6 +710,18 @@ iframe.lazy-placeholder,
 section.lazy-placeholder:after {
   opacity: 0.3;
 }
+.cid-s313wXw93L {
+  padding-top: 90px;
+  padding-bottom: 15px;
+  background: linear-gradient(0deg, #ffffff, #ffffff);
+}
+.cid-s313wXw93L .mbr-iconfont-social {
+  font-size: 32px;
+  color: #cc2952;
+}
+.cid-s313wXw93L .social-list a:focus {
+  text-decoration: none;
+}
 .cid-rSsg1ZXc5C {
   background-image: url("../../../assets/images/logodone-3-2000x1333.jpeg");
 }
@@ -1480,7 +1492,7 @@ section.lazy-placeholder:after {
 }
 @media (min-width: 1024px) {
   .cid-s1AHA3DlQy .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 4.3rem);
+    max-height: calc(98.5vh - 4rem);
   }
 }
 .cid-s1AHA3DlQy .collapsed button.navbar-toggler {
